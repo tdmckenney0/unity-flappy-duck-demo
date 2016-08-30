@@ -1,0 +1,54 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6658)
+    Vendor:   ATI
+    VRAM:     2024 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tanner Mckenney\Projects\Flappy Bird\Builds\FlappyDuck_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.582939 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.725526 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 0.171837 ms (FindLiveObjects: 0.022717 ms CreateObjectMapping: 0.014853 ms MarkObjects: 0.128440 ms  DeleteObjects: 0.005242 ms)
+
+Died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.650068 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.361148 ms (FindLiveObjects: 0.021261 ms CreateObjectMapping: 0.025629 ms MarkObjects: 0.281637 ms  DeleteObjects: 0.030289 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392603 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 0.200379 ms (FindLiveObjects: 0.025338 ms CreateObjectMapping: 0.033784 ms MarkObjects: 0.135139 ms  DeleteObjects: 0.004659 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.599099 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.343091 ms (FindLiveObjects: 0.021261 ms CreateObjectMapping: 0.025338 ms MarkObjects: 0.265036 ms  DeleteObjects: 0.029707 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 170c -> priority: 1 
